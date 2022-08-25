@@ -27,6 +27,9 @@ public class emplpoyee {
 		}
 		this.salary += this.bonus;
 	}
+	public void winger() {
+		System.out.println("winger");
+		}
 
 	public void get_attri() {
 		System.out.println("Employee Details");
