@@ -29,7 +29,12 @@ public class emplpoyee {
 	}
 	public void winger() {
 		System.out.println("winger");
+		System.out.println("winger1");
+		
+		
 		}
+	
+	
 
 	public void get_attri() {
 		System.out.println("Employee Details");
